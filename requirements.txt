@@ -1,0 +1,6 @@
+streamlit
+groq
+python-pptx
+pillow
+requests
+lxml
